@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TadarusMobile">
         <activity
+            android:name=".RekapTadarusActivity"
+            android:exported="true" />
+        <activity
             android:name=".TambahCatatanActivity"
             android:exported="true" />
         <activity
